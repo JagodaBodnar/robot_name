@@ -1,4 +1,6 @@
 ### Instructions
+Exercise from https://exercism.org/tracks/java/exercises/robot-name
+
 Manage robot factory settings.
 
 When a robot comes off the factory floor, it has no name.
